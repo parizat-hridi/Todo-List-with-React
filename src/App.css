@@ -1,0 +1,25 @@
+.app {
+ 
+  background-image: url(https://i.pinimg.com/originals/09/1d/4f/091d4f1bebc76ea61eec0b9d8af26e5f.jpg);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+  
+  
+ 
+}
+
+b{
+  color: white;
+  background-color:navy ;
+}
+
